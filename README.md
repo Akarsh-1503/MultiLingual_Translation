@@ -1,3 +1,6 @@
+(with Youtube Demonstration Link: https://youtu.be/ncjBqi1-myc )
+
+
 ## Inspiration
 Translation builds bridges between cultures. It allows you to experience cultural phenomena that would otherwise be too foreign and remote to grasp through your own cultural lens.
 
@@ -13,17 +16,22 @@ This model is built using Natural Processing concepts, with help of Python, Java
 
 
 # DEMO
-##<I>Summarize Aritcle and many more...</I>
+## <I>Summarize Article, Essay and many more...</I>
 ![image](https://github.com/Akarsh-1503/MultiLingual_Translation/assets/103405266/a50ca5c3-bc16-4e15-b8d9-80af336539b1)
 
-##<I>Translate it to your native Language</I>
+## <I>Translate it to your native Language</I>
 ![image](https://github.com/Akarsh-1503/MultiLingual_Translation/assets/103405266/1bb970e8-5f44-4672-b68d-5e4d00c61a37)
 
-##<I>Read it in native language</I>
+## <I>Read it in native language</I>
 ![image](https://github.com/Akarsh-1503/MultiLingual_Translation/assets/103405266/5935937c-ec66-4162-b18c-ba13e2bacdc7)
 
-##<I>Listen in your preffered language</I>
+## <I>Listen in your preffered language</I>
 ![image](https://github.com/Akarsh-1503/MultiLingual_Translation/assets/103405266/16c9aa17-f832-49bb-9853-55153d466ed3)
+
+
+
+# Video
+https://youtu.be/ncjBqi1-myc
 
 
 ## Challenges we ran into
