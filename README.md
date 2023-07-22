@@ -19,5 +19,10 @@ This model allows differently abled to have visual as well as auditory access to
 -> I have learnt concept of Natural Language Understanding, 
 -> Hands-on Cascading Style Sheet,
 -> JavaScript concept
--> Implemented Natural Language Processing concepts in real-world enviornment.
+-> Implemented Natural Language Processing concepts in real-world environment.
+
 ## What's next for MultiLingual Translation
+-> Mastering artificial intelligence and deep learning will create a new generation of translation software. One that delivers more accurate versions of the original content, in more languages.
+-> Multilingual SEO, which allows you to integrate local keywords in your content.
+-> Brands need to overcome cultural differences to sell outside national borders.
+-> Companies need valuable, engaging content, easy to read and to understand by large audiences
