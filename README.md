@@ -7,11 +7,13 @@ Translation builds bridges between cultures. It allows you to experience cultura
 ## What it does
 It summarizes any long article to a brief summarized text, also allows user to convert article into there native language.
 User can listen also listen to any article in there native language, this model also analyzes all over sentiment of article.
+
 ![enc_dec_simple](https://github.com/Akarsh-1503/MultiLingual_Translation/assets/103405266/9ab412fe-af60-42ad-91b2-dd052e906751)
 
 
 ## How we built it
 This model is built using Natural Processing concepts, with help of Python, JavaScript, CSS.
+
 ![Flow-chart-for-translation-algorithm](https://github.com/Akarsh-1503/MultiLingual_Translation/assets/103405266/50470e73-e9b4-4c2f-8f58-995898062c41)
 
 
